@@ -14,5 +14,5 @@ Currently collaborating on [Explore-In-HMS](https://github.com/Explore-In-HMS)
 ## 
 ![Stats](https://github-readme-stats.vercel.app/api?username=yunusemrre&theme=tokyonight)
 
-## Spotify Live View
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yunusemreee96&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+## Spotify Live
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yunusemreee96&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=true)
