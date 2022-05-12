@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://user-images.githubusercontent.com/26417041/161840565-7103aafa-fe87-46f8-8376-1bb81855617e.gif" width="48" height="48">
 
-I'm a Native Androiod Developer working in Istanbul, Turkey. 💻☕
+I'm a Native Android Developer working in Istanbul, Turkey. 💻☕
 
 Currently collaborating on [Explore-In-HMS](https://github.com/Explore-In-HMS)
 
